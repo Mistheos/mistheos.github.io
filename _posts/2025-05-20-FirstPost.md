@@ -10,6 +10,8 @@ background: '/img/posts/01.jpg'
 
 ## Hero Image
 
+![image](https://github.com/user-attachments/assets/abad85c0-1d83-4587-8872-bd7cd8118fa0)
+
 ![Mountain Sunrise](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)
 
 ---
